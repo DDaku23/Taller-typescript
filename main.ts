@@ -35,7 +35,7 @@ function renderSerieDetail(serie: any): void {
       <div class="card-body">
         <h5 class="card-title">${serie.title}</h5>
         <p class="card-text">${serie.description}</p>
-        <a href="${serie.url}" target="_blank" class="btn btn-primary">Go to series</a>
+        <a href="${serie.url}" target="_blank" class="btn btn-primary">Mirar ahora</a>
       </div>
     </div>
   `;
